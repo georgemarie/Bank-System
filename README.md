@@ -10,7 +10,7 @@
 ## ● There are multiple banks and each bank has many branches. Each bank has a name, code and address. Each branch has an address and a branch number.
 ## ● Each branch has multiple customers. Each customer has an SSN, name, phone, and address.
 ## ● Some customers may take different types of loans from these bank branches. Each branch offers multiple loans. Loan number, loan type, and loan amount must be kept for each loan.
-## ● One customer can have multiple accounts. For each account; account number, balance and type must be kept for it.
+### ● One customer can have multiple accounts. For each account; account number, balance and type must be kept for it.
 ## ● Proposed functionalities:
 ##       ○ Signing up a new user (e.g. customer, employee)
 ##       ○ Updating a user details 
