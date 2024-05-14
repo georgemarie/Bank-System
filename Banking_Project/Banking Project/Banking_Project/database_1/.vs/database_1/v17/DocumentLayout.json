@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\project\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\",
+  "WorkspaceRootPath": "E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\Bank-System\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B4AE69B-6750-4578-AD76-3DD6297D06DB}|database_1\\database_1.csproj|e:\\kolya\\second year\\second year new\\second semster\\database\\project\\banking_project\\banking project\\banking_project\\database_1\\database_1\\chooseacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B4AE69B-6750-4578-AD76-3DD6297D06DB}|database_1\\database_1.csproj|e:\\kolya\\second year\\second year new\\second semster\\database\\bank-system\\banking_project\\banking project\\banking_project\\database_1\\database_1\\chooseacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B4AE69B-6750-4578-AD76-3DD6297D06DB}|database_1\\database_1.csproj|solutionrelative:database_1\\chooseacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B4AE69B-6750-4578-AD76-3DD6297D06DB}|database_1\\database_1.csproj|E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\project\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\chooseacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3B4AE69B-6750-4578-AD76-3DD6297D06DB}|database_1\\database_1.csproj|E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\Bank-System\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\chooseacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3B4AE69B-6750-4578-AD76-3DD6297D06DB}|database_1\\database_1.csproj|solutionrelative:database_1\\chooseacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B4AE69B-6750-4578-AD76-3DD6297D06DB}|database_1\\database_1.csproj|E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\project\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\status_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B4AE69B-6750-4578-AD76-3DD6297D06DB}|database_1\\database_1.csproj|E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\Bank-System\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\status_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B4AE69B-6750-4578-AD76-3DD6297D06DB}|database_1\\database_1.csproj|solutionrelative:database_1\\status_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B4AE69B-6750-4578-AD76-3DD6297D06DB}|database_1\\database_1.csproj|E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\project\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\status_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3B4AE69B-6750-4578-AD76-3DD6297D06DB}|database_1\\database_1.csproj|E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\Bank-System\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\status_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3B4AE69B-6750-4578-AD76-3DD6297D06DB}|database_1\\database_1.csproj|solutionrelative:database_1\\status_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B4AE69B-6750-4578-AD76-3DD6297D06DB}|database_1\\database_1.csproj|E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\project\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B4AE69B-6750-4578-AD76-3DD6297D06DB}|database_1\\database_1.csproj|E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\Bank-System\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B4AE69B-6750-4578-AD76-3DD6297D06DB}|database_1\\database_1.csproj|solutionrelative:database_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,9 +36,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ChooseAcc.cs",
-              "DocumentMoniker": "E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\project\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\ChooseAcc.cs",
+              "DocumentMoniker": "E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\Bank-System\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\ChooseAcc.cs",
               "RelativeDocumentMoniker": "database_1\\ChooseAcc.cs",
-              "ToolTip": "E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\project\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\ChooseAcc.cs",
+              "ToolTip": "E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\Bank-System\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\ChooseAcc.cs",
               "RelativeToolTip": "database_1\\ChooseAcc.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAjwB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -49,7 +49,7 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ChooseAcc.cs [Design]",
-              "DocumentMoniker": "E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\project\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\ChooseAcc.cs",
+              "DocumentMoniker": "E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\Bank-System\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\ChooseAcc.cs",
               "RelativeDocumentMoniker": "database_1\\ChooseAcc.cs",
               "ToolTip": "C:\\Users\\alanh\\Desktop\\Banking_Project\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\ChooseAcc.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
@@ -59,9 +59,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Status_form.cs",
-              "DocumentMoniker": "E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\project\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\Status_form.cs",
+              "DocumentMoniker": "E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\Bank-System\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\Status_form.cs",
               "RelativeDocumentMoniker": "database_1\\Status_form.cs",
-              "ToolTip": "E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\project\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\Status_form.cs",
+              "ToolTip": "E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\Bank-System\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\Status_form.cs",
               "RelativeToolTip": "database_1\\Status_form.cs",
               "ViewState": "AQIAACwAAAAAAAAAAAAMwD0AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
@@ -71,7 +71,7 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Status_form.cs [Design]",
-              "DocumentMoniker": "E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\project\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\Status_form.cs",
+              "DocumentMoniker": "E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\Bank-System\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\Status_form.cs",
               "RelativeDocumentMoniker": "database_1\\Status_form.cs",
               "ToolTip": "C:\\Users\\alanh\\Desktop\\Banking_Project\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\Status_form.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
@@ -81,9 +81,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\project\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\Program.cs",
+              "DocumentMoniker": "E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\Bank-System\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\Program.cs",
               "RelativeDocumentMoniker": "database_1\\Program.cs",
-              "ToolTip": "E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\project\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\Program.cs",
+              "ToolTip": "E:\\Kolya\\Second Year\\second year new\\second semster\\Database\\Bank-System\\Banking_Project\\Banking Project\\Banking_Project\\database_1\\database_1\\Program.cs",
               "RelativeToolTip": "database_1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
