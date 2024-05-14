@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Artificial Intelligence Course - Assignment 1
 
 ## Problem Statement
@@ -31,3 +32,10 @@ alternative(ItemName, AlternativeItem).
 12. **Bonus: Insert/remove item, alternative, or new boycott company:** `add_item(ItemName, CompanyName, Price)`, `remove_item(ItemName, CompanyName, Price)`, `add_boycott_company(CompanyName, Justification)`, `remove_boycott_company(CompanyName, Justification)`
 
 Please refer to the assignment instructions for detailed explanations and examples of each predicate.
+=======
+The Project Contain :
+1- Software Application 
+2- Conceptual ERD 
+3- Corresponding Physical ERD 
+4- Implemented database on MS SQL Server
+>>>>>>> 138139bef18215ce6de80b6f9bf39c07ef402c25
