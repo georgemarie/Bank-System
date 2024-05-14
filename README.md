@@ -1,41 +1,16 @@
-<<<<<<< HEAD
-# Artificial Intelligence Course - Assignment 1
 
-## Problem Statement
+# Project Contain :
+# 1- Software Application  
+# 2- Conceptual ERD 
+# 3- Corresponding Physical ERD
+# 4- Implemented database on MS SQL Server
 
-In this assignment, you are required to write a Prolog program that manages customer orders and provides information on boycotted items and their alternatives. The program should answer questions about customers and their orders and assist customers in finding alternative products to boycotted items.
+# Description
 
-## Facts (data.pl file)
-
-You must use the provided `data.pl` file, which contains facts about customers, items, orders, boycotted companies, and their alternatives. For example:
-
-```prolog
-customer(CustID, CustUserName).
-item(ItemName, CompanyName, Price).
-order(CustID, OrderID, [Items]).
-boycott_company(CompanyName, Justification).
-alternative(ItemName, AlternativeItem).
-```
-## Required Predicates
-
-1. **List all orders of a specific customer:** `list_orders(CustomerUserName, OrdersList)`
-2. **Get the number of orders of a specific customer:** `count_orders(CustomerUserName, Count)`
-3. **List all items in a specific customer order:** `get_items_in_order(CustomerUserName, OrderID, ItemsList)`
-4. **Get the number of items in a specific customer order:** `get_num_of_items(CustomerUserName, OrderID, Count)`
-5. **Calculate the price of a given order:** `calc_price_of_order(CustomerUserName, OrderID, TotalPrice)`
-6. **Check if an item or company needs to be boycotted:** `is_boycott(ItemOrCompanyName)`
-7. **Get the justification for boycotting an item or company:** `why_to_boycott(ItemOrCompanyName, Justification)`
-8. **Remove all boycotted items from an order:** `remove_boycott_items(CustomerUserName, OrderID, NewList)`
-9. **Update an order by replacing all boycotted items with alternatives:** `replace_boycott_items(CustomerUserName, OrderID, NewList)`
-10. **Calculate the price of an order after replacing boycotted items:** `calc_price_after_replacing_boycott_items(CustomerUserName, OrderID, NewList, TotalPrice)`
-11. **Calculate the price difference between an item and its alternative:** `get_difference_in_price(ItemName, AlternativeItem, DiffPrice)`
-12. **Bonus: Insert/remove item, alternative, or new boycott company:** `add_item(ItemName, CompanyName, Price)`, `remove_item(ItemName, CompanyName, Price)`, `add_boycott_company(CompanyName, Justification)`, `remove_boycott_company(CompanyName, Justification)`
-
-Please refer to the assignment instructions for detailed explanations and examples of each predicate.
-=======
-The Project Contain :
-1- Software Application 
-2- Conceptual ERD 
-3- Corresponding Physical ERD 
-4- Implemented database on MS SQL Server
->>>>>>> 138139bef18215ce6de80b6f9bf39c07ef402c25
+● There are multiple banks and each bank has many branches. Each bank has a name, code and address. Each branch has an address and a branch number.
+● Each branch has multiple customers. Each customer has an SSN, name, phone, and address.
+● Some customers may take different types of loans from these bank branches. Each branch offers multiple loans. Loan number, loan type, and loan amount must be kept for each loan.
+● One customer can have multiple accounts. For each account; account number, balance and type must be kept for it.
+● Proposed functionalities: ○ Signing up a new user (e.g. customer, employee) ○ Updating a user details ○ Add bank (by admin) ○ Add bank branch (by Admin) ○ Add a customer (by employee) ○ Showing a list of loan (e.g. industry loan, commercial loan, Personal loan ...)
+○ Showing a list of customers ○ Showing a list of loans with customer name and employee name ○ Performing operations on loans: request and start operation (by customer)
+○ Performing operations on loans: accept (reject, pay loan (by employee)
