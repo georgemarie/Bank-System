@@ -1,0 +1,160 @@
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Properties.Resources.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.csproj.GenerateResource.cache
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.csproj.CoreCompileInputs.cache
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Form1.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\bin\Debug\database_1.exe.config
+C:\Users\habiba\Desktop\DB project\database_1\database_1\bin\Debug\database_1.exe
+C:\Users\habiba\Desktop\DB project\database_1\database_1\bin\Debug\database_1.pdb
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.exe
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.pdb
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.csproj.AssemblyReference.cache
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Form2.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Form3.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Form4.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Form5.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Form6.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Form7.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Form8.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Add_bank.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Add_branch.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Display_loans2.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Display_customers.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Admin_home.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Employee_home.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Starting_form.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Customer_home.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Loan_req.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Status_form.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Loan_Options.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Select_st1.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Select_Statements.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Selectst2.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Selectst3.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Selectst4.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Selectst5.resources
+C:\Users\habiba\Desktop\DB project\database_1\database_1\obj\Debug\database_1.Selectst6.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\bin\Debug\database_1.exe.config
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\bin\Debug\database_1.exe
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\bin\Debug\database_1.pdb
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.csproj.AssemblyReference.cache
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Add_bank.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Add_branch.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Admin_home.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Customer_home.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Display_customers.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Display_loans2.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Employee_home.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Loan_Options.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Loan_req.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Properties.Resources.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Starting_form.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Status_form.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.csproj.GenerateResource.cache
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.csproj.CoreCompileInputs.cache
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.exe
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.pdb
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.AddCus.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.LoadLoans.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.UpdateUser.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.UpdateCus.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.UpdateEmp.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Signin.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.SigninEmp.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.SigninCus.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.BranchNoCus.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.BranchNoEmp.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.MaxLoansByEmp.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.MaxLoansByCus.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.CusNoLoans.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.NumOfEmpByCus.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Report.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Login.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.CreateAcc.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.DisplayAccs.resources
+C:\Users\alanh\Desktop\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.ChooseAcc.resources
+C:\Users\alanh\Downloads\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.csproj.AssemblyReference.cache
+C:\Users\alanh\Downloads\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\alanh\Downloads\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.exe
+C:\Users\alanh\Downloads\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.pdb
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.csproj.AssemblyReference.cache
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.exe
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.pdb
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\bin\Debug\database_1.exe.config
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\bin\Debug\database_1.exe
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\bin\Debug\database_1.pdb
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Add_bank.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Add_branch.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Admin_home.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.ChooseAcc.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.CreateAcc.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Customer_home.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.DisplayAccs.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Display_customers.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Display_loans2.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Employee_home.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.AddCus.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.LoadLoans.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Login.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.UpdateUser.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.UpdateCus.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.UpdateEmp.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Signin.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.SigninEmp.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.SigninCus.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Loan_Options.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Loan_req.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Properties.Resources.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.BranchNoCus.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.BranchNoEmp.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.MaxLoansByEmp.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.MaxLoansByCus.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.CusNoLoans.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.NumOfEmpByCus.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Report.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Starting_form.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Status_form.resources
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.csproj.GenerateResource.cache
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.csproj.CoreCompileInputs.cache
+C:\Users\alanh\Desktop\Banking_Project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.DeleteCus.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\bin\Debug\database_1.exe.config
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\bin\Debug\database_1.exe
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\bin\Debug\database_1.pdb
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.csproj.AssemblyReference.cache
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Add_bank.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Add_branch.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Admin_home.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.ChooseAcc.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.CreateAcc.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Customer_home.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.DeleteCus.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.DisplayAccs.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Display_customers.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Display_loans2.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Employee_home.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.AddCus.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.LoadLoans.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Login.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.UpdateUser.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.UpdateCus.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.UpdateEmp.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Signin.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.SigninEmp.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.SigninCus.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Loan_Options.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Loan_req.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Properties.Resources.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.BranchNoCus.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.BranchNoEmp.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.MaxLoansByEmp.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.MaxLoansByCus.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.CusNoLoans.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.NumOfEmpByCus.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Report.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Starting_form.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.Status_form.resources
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.csproj.GenerateResource.cache
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.csproj.CoreCompileInputs.cache
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.exe
+E:\Kolya\Second Year\second year new\second semster\Database\project\Banking_Project\Banking Project\Banking_Project\database_1\database_1\obj\Debug\database_1.pdb
